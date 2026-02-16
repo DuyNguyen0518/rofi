@@ -2,4 +2,4 @@
 
 dir = "$HOME/.config/rofi"
 
-rofi -show drun -theme ${dir}/config.rasi
+rofi -show drun -theme ${dir}/theme.rasi
